@@ -33,3 +33,7 @@ body {
   background-color: #f55742;
   color: white;
 }
+
+.container {
+  margin-bottom: 20px;
+}
