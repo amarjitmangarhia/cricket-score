@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@500&display=swap");
+
+body {
+  font-family: "Smooch Sans", sans-serif;
+}
+
+.container {
+  font-family: "Poppins", sans-serif;
+}
+
+.over {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 26px;
+}
+
+.box,
+.reset-box {
+  background-color: lightblue;
+  padding: 10px;
+  margin: 2px;
+  margin-bottom: 10px;
+  min-width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reset-box {
+  background-color: #f55742;
+  color: white;
+}
